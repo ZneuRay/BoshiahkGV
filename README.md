@@ -24,8 +24,7 @@
 - 新增: tbl\fixed.txt。檔案內存ClassName清單，有在此清單內的視窗，開啟跟隨游標的功能時，會強制關閉跟隨游標功能，檔案內以Notepad為範例給大家試試。
 - 這一次上傳四種執行檔，大家可以測試看看自己電腦的哪一個版本不會誤判為病毒，我之前試過 64 位元和 32 位元，不同的執行檔會被不同防軟體誤判，所以只能請大家找一個合適的執行檔了。
 
-# 輸入畫面範例  
-![image](https://github.com/yurenli0217/Temp/blob/main/Example2.gif?raw=true)
+# 輸入畫面範例
 ![image](https://github.com/yurenli0217/Temp/blob/main/Example.gif?raw=true)  
 
 # 下載方式如下圖  
