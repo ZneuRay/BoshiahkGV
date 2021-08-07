@@ -1,6 +1,8 @@
 # BoshiahkGV - 嘸蝦殼 GDI+ Version。
 免安裝的嘸蝦米輸入工具，以 AutoHotkey 搭配 GDI+ 寫成。  
-本程式會攔截鍵盤事件，所以會被某些掃毒軟體誤判，附上掃毒結果給大家參考：[連結](https://www.virustotal.com/gui/file/422deefb3964342c442799d0f60b97d8a6c3b90c7b0e8d9416257cba83ea509d/detection)
+本程式會攔截鍵盤事件，所以會被某些掃毒軟體誤判，附上掃毒結果給大家參考：  
+[32位元執行檔](https://www.virustotal.com/gui/file/fb751ead2299d46ae6f6afd98fc13bb8cfed3ae28986769ba33216f955f870e6/detection)
+[64位元執行檔](https://www.virustotal.com/gui/file/de549b13e2297abfc6b30a71bf84656464ddc7766e8ea9b37c46890f04ec5a3c/detection)
 
 身為嘸蝦米輸入法的使用者，我非常能夠體會沒有嘸蝦米輸入法可用時的窘境。  
 
