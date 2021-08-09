@@ -24,7 +24,7 @@
 - 更新 AutoHotkey 核心，重新編譯並瘦身，這次32位元和64位元經測試，Windows 內建的防毒軟體沒有誤判的情況。
 
 # 輸入畫面範例
-![image](https://github.com/yurenli0217/Temp/blob/main/Example.gif?raw=true)  
+![image](https://github.com/yurenli0217/Temp/blob/main/Example3.gif?raw=true)  
 
 # 下載方式如下圖  
 ![image](https://github.com/yurenli0217/Temp/blob/main/Download.png?raw=true)
