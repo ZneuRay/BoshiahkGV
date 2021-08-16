@@ -19,7 +19,7 @@
 系統列圖示在切換全形/半形、中/英、剪貼簿時分別會再多出圖示做為提醒。  
 對圖示按下右鍵可結束程式。
 系統列圖示會自動隱藏，要設定讓他一直顯示在系統列上，如下圖:  
-![image](https://github.com/yurenli0217/Temp/blob/main/TrayIocnSetting.png?raw=true)  
+![image](https://github.com/yurenli0217/Temp/blob/main/TrayIconSetting.png?raw=true)  
 
 
 ### 更新 2021-08-14
