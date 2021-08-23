@@ -23,7 +23,7 @@
 註: Windows 11 的支援度必須要看 AutoHotkey 本身在 Windows 11 上是否支援，若不支援，本程式亦無法在 Windows 11 上執行。
 
 # 輸入畫面範例
-![image](https://github.com/yurenli0217/Temp/blob/main/Example.gif?raw=true)  
+![image](https://github.com/yurenli0217/Temp/blob/main/Example9.gif?raw=true)  
 
 # 下載方式如下圖  
 ![image](https://github.com/yurenli0217/Temp/blob/main/Download.png?raw=true)
