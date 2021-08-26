@@ -14,6 +14,10 @@
 
 只要 Autohotkey 能在 Windows 上執行，這個工具都會持續維護，也感謝 PTT 的蝦友們提出程式使用上的問題，協助我修正，讓程式更加完善。
 
+### 更新 2021-08-26
+- 新增: INI 設定值 toggle_hotkey，可以自訂輸入法開關切換熱鍵，若是有軟體需要 Ctrl-Space 來做熱鍵，就可以透過 INI 檔修改原本預設的熱鍵。
+- 變更: 考量到有使用者還是喜歡浮動式的輸入法狀態顯示，此釋出版本加回來，但系統列仍然維持長駐圖示，請參考 INI 內的說明，另外表格`[table]`區段的設定也做了修改，讓設定值可以配合浮動狀態顯示。
+
 ### 更新 2021-08-23
 - 新增: 系統列圖示可以針對不同的表格，指定不同的圖示，請參閱 INI 內的說明。  
 舊的輸入法狀態顯示方式已移除，因此設定檔內 `[main]` 與 `[table]` 區段的設定都有做了修改。  
@@ -23,7 +27,7 @@
 註: Windows 11 的支援度必須要看 AutoHotkey 本身在 Windows 11 上是否支援，若不支援，本程式亦無法在 Windows 11 上執行。
 
 # 輸入畫面範例
-![image](https://github.com/yurenli0217/Temp/blob/main/Example9.gif?raw=true)  
+![image](https://github.com/yurenli0217/Temp/blob/main/Example3.gif?raw=true)  
 
 # 下載方式如下圖  
 ![image](https://github.com/yurenli0217/Temp/blob/main/Download.png?raw=true)
