@@ -4,8 +4,6 @@
 [32位元執行檔](https://www.virustotal.com/gui/file/fb751ead2299d46ae6f6afd98fc13bb8cfed3ae28986769ba33216f955f870e6/detection)
 [64位元執行檔](https://www.virustotal.com/gui/file/de549b13e2297abfc6b30a71bf84656464ddc7766e8ea9b37c46890f04ec5a3c/detection)  
 
-以 AutoHotkey v2 開發的 Boshiahk2 已釋出，請參考 [https://github.com/yurenli0217/Boshiahk2](https://github.com/yurenli0217/Boshiahk2)。  
-
 身為嘸蝦米輸入法的使用者，我非常能夠體會沒有嘸蝦米輸入法可用時的窘境。  
 
 我也曾經用過能夠使用嘸蝦米輸入的框架，如 RIME、PIME，以及可以免安裝的小小輸入法，這些輸入法框架雖然都能夠套用嘸蝦米的表格，但是使用上總是不那麼順手，我在接觸了 AutoHotkey 一段時間之後，突然想到可以試著用 AutoHotkey 設計一個專屬嘸蝦米輸入法的工具。  
@@ -15,6 +13,8 @@
 經過幾次的改良，加上自己也喜歡簡潔的介面，輸入工具的介面最後修改成現在的版本，將來也會維持目前的簡潔的介面。
 
 只要 Autohotkey 能在 Windows 上執行，這個工具都會持續維護，也感謝 PTT 的蝦友們提出程式使用上的問題，協助我修正，讓程式更加完善。
+
+### 以 AutoHotkey v2 開發的 Boshiahk2 已釋出，請參考 [嘸蝦殼2 - Boshiahk2](https://github.com/yurenli0217/Boshiahk2)。  
 
 ### 更新 2021-08-26
 - 新增: INI 設定值 toggle_hotkey，可以自訂輸入法開關切換熱鍵，若是有軟體需要 Ctrl-Space 來做熱鍵，就可以透過 INI 檔修改原本預設的熱鍵。
